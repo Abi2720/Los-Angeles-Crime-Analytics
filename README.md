@@ -27,7 +27,7 @@ An interactive Power BI dashboard analyzing Los Angeles crime trends, locations,
 - Communicating analytical findings
 
 ## Project Files
-- Power BI report (`.pbix`)
+- Power BI report (`.pbit`)
 - Dashboard screenshots
 
 ## Data Source
